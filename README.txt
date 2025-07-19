@@ -1,0 +1,1 @@
+В файл нужно внести токены ".\src\moduls\tokens\tokens.os"
